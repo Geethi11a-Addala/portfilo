@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+}
+h1{
+    color: rgb(94, 98, 101);
+}
+header{
+    background-color: rgb(159, 151, 151);
+    
+    height:100px;
+    padding: 20px;
+}
+ ul li{
+    display: inline;
+   
+    padding: 30px;
+}
+ul li a{
+    color:rgb(114, 66, 8);
+    text-decoration: none;
+}
+#home img{
+    heigth:250px;
+    width:250px;
+    border-radius: 60%;
+}
+footer{
+    background-color:rgb(130, 171, 157);
+    heigth:20px;
+}
+#Portfolio{
+    background-color:rgb(121, 163, 163);
+}
+li{
+    display:inline;
+    margin-right: 30px;
+}
